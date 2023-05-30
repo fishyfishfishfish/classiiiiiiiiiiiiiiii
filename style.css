@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    color: crimson;
+}
+
+.heading{
+    font-size: 11px;
+    margin: 1px;
+    width: 99%;
+}
+
+#button,#numberOfObjects,#status{
+    font-size: 17px;
+}
+
+.footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    color: greenyellow;
+    text-align: center;
+}
